@@ -1,3 +1,3 @@
 # hello-world
-learning about git
+learning about git and git-hub
 info on git
